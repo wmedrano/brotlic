@@ -15,6 +15,7 @@ readme = "README.md"
 
 include = [
 	"src/*",
+	"LICENSE*",
 	"brotli/c/enc/*",
 	"brotli/c/dec/*",
 	"brotli/c/common/*",
